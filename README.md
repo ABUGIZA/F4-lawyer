@@ -30,3 +30,5 @@
 
 # Preview
 # [Youtube](https://youtu.be/Tr2bQ6VedbE)
+# Support
+# [Discord](https://discord.gg/QaeK4b6UnW)
