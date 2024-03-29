@@ -7,12 +7,6 @@
 <img src = "https://cdn.discordapp.com/attachments/1000200098346696814/1223332004968267906/Desktop_Screenshot_2024.03.29_-_20.43.37.97.png?ex=661977b6&is=660702b6&hm=f1ba49eea6327c1c2b85661f2456e9e060e40b81a613bf4385f170ecd55042b7&" width = "600">
 <img src = "https://cdn.discordapp.com/attachments/1000200098346696814/1223328632299061288/image.png?ex=66197492&is=6606ff92&hm=4132f0235993ae7d6bad4b0a6daf9889b46fc5aa45c5f85d2e93081334b0dd07&" width = "600">
 
-
-# Preview
-[Youtube](https://youtu.be/Tr2bQ6VedbE)
-
-
-
 ## qb-inventory/html/js/app.js cod 480
 <img src = "https://cdn.discordapp.com/attachments/1000200098346696814/1223335109659328685/image.png?ex=66197a9a&is=6607059a&hm=74403c9b47adc771687e6f6b8814977f539b945e90ab317ac23e45687d53a9bc&" width = "600">
 
@@ -33,3 +27,6 @@
 ```
 ['lawyer'] = 'حط رابط الوب هوك حق دسكوردك',
 ```
+
+# Preview
+# [Youtube](https://youtu.be/Tr2bQ6VedbE)
