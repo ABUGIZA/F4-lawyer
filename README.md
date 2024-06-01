@@ -8,7 +8,7 @@
 <img src = "https://cdn.discordapp.com/attachments/1000200098346696814/1223328632299061288/image.png?ex=665b5f92&is=665a0e12&hm=07322d7f40ea4bac718c4aa619aab9ddfaee28005f110651a5610ae45a8fb1a2&" width = "600">
 
 ## qb-inventory/html/js/app.js cod 480
-<img src = "" width = "600">
+<img src = "https://cdn.discordapp.com/attachments/1000200098346696814/1223335109659328685/image.png?ex=665b659a&is=665a141a&hm=947c97b4b90e1955d4acab78806b370e096170d2ff638164e051b3f4fea64133&" width = "600">
 
 ```
 } else if (itemData.name == "case") {
